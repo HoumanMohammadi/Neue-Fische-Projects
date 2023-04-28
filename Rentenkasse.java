@@ -1,3 +1,4 @@
+// test
 //Die Rentenkasse möchte ein Programm haben, um zu berechnen, ob Beiträge ausgezahlt werden sollen.
 //Aufgabe A. :
 //Lies mit Scanner ein wann die Person angefangen hat zu arbeiten
