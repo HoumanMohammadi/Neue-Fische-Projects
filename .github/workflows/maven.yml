@@ -1,6 +1,6 @@
 name: Build project with maven
 
-#bei jedem push soll das Skript ausgeführt werden
+#bei jedem push soll das Skript ausgeführt werden.
 
 on: push
 
