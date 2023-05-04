@@ -74,6 +74,17 @@ public class PasswordValidationTest {
 		assertEquals(expectedResult,result);
 	}
 	
+	@Test
+	public void checksIfFourFollowingCharThenFalse() {
+		//given
+		String pass= "123456789";
+		boolean expectedResult= false;
+		//when
+		boolean result=PasswortValidation.passwordIsStrong(pass);
+		//then
+		assertEquals(expectedResult,result);
+	}
+	
 	
 	
 	
